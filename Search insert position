@@ -1,4 +1,4 @@
-# 35-SEAECH INSERT POSITION
+# 35-SEARCH INSERT POSITION
 
 class Solution {
     public int searchInsert(int[] nums, int target) {
