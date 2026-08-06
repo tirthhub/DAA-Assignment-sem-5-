@@ -1,4 +1,4 @@
-# 33 SEARCH AND ROATED SORTED ARRAY
+# 33 SEARCH AND ROTATED SORTED ARRAY
 
 class Solution {
     public int search(int[] nums, int target) {
